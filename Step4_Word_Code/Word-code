@@ -1,0 +1,10 @@
+Start.
+Is it feeding time? 
+If false send alert.
+Is the feeder bin >10%?
+If false send alert.
+Dispense food.
+Wait 10 minutes.
+Has the bowl weight changed?
+If false send alert.
+End.
